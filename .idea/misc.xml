@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/creational_pattern_singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/creational_pattern_factory_method/pom.xml" />
+        <option value="$PROJECT_DIR$/creational_pattern_abstract_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/structural_pattern_adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/structural_pattern_facade/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral_pattern_adapter/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral_pattern_strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral_pattern_observer/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral_pattern_template/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioral_pattern_template_method/pom.xml" />
+        <option value="$PROJECT_DIR$/unit_test_with_mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/basic_integration_testing/pom.xml" />
+        <option value="$PROJECT_DIR$/integration_test_big_bang_approach/pom.xml" />
+        <option value="$PROJECT_DIR$/integration_test_top_down_approach/pom.xml" />
+        <option value="$PROJECT_DIR$/integration_test_bottom_up_approach/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_lab_1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc_lab_1_and_2/pom.xml" />
+        <option value="$PROJECT_DIR$/integration_test_hybrid_approach/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/behavioral_pattern_adapter/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
