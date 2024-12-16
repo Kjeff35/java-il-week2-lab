@@ -10,6 +10,7 @@
         <module name="creational_pattern_abstract_factory" />
         <module name="behavioral_pattern_template_method" />
         <module name="creational_pattern_factory_method" />
+        <module name="todo_mvc" />
         <module name="structural_pattern_facade" />
         <module name="spring_mvc_lab_1_and_2" />
         <module name="behavioral_pattern_observer" />
@@ -36,6 +37,7 @@
       <module name="integration_test_hybrid_approach" options="-parameters" />
       <module name="integration_test_top_down_approach" options="-parameters" />
       <module name="spring_mvc_lab_1_and_2" options="-parameters" />
+      <module name="todo_mvc" options="-parameters" />
       <module name="unit_test_with_mockito" options="-parameters" />
     </option>
   </component>
